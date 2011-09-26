@@ -1,0 +1,17 @@
+{
+  "author": "Anton Podviaznikov <anton.podviaznikov@enginimation.com>",
+  "name": "country",
+  "description": "Minor utility library allowing us to get ISO code for country.",
+  "version": "0.2.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/podviaznikov/country.js.git"
+  },
+  "main": "./index.js",
+  "engines": {
+    "node": "~v0.4.9"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
+
