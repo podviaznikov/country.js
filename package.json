@@ -1,5 +1,5 @@
 {
-  "author": "Anton Podviaznikov <anton.podviaznikov@enginimation.com>",
+  "author": "Anton Podviaznikov <anton@podviaznikov.com>",
   "name": "country",
   "description": "Minor utility library (browser-side and server-side) allowing us to get ISO code for country.",
   "version": "0.2.0",
